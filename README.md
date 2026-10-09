@@ -24,10 +24,7 @@ I'm a Computer Applications student who enjoys learning by building practical pr
 ## 📌 Featured Project
 
 ### CodeLibrary
-A project focused on making programming eBooks and learning resources easier to discover.
-
-- Website: https://codelibrary.my.canva.site/books
-- Current focus: improving the digital catalog and learning experience
+A project focused on making programming eBooks and learning resources easier to discover. I'm working on improving the digital catalog and learning experience.
 
 ## 🎯 Current Goals
 
