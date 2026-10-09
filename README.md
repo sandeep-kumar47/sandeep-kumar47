@@ -4,6 +4,13 @@
 
 I'm a Computer Applications student who enjoys learning by building practical projects. I'm currently developing my skills in web technologies and exploring cloud computing, AI, and automation.
 
+## 🌐 My Portfolio
+
+**[Visit my Developer Portfolio](https://sandeep-kumar47.github.io)** — a responsive personal website built with HTML, CSS, and JavaScript.
+
+- 💻 [Portfolio source code](https://github.com/sandeep-kumar47/sandeep-kumar47.github.io)
+- 👨‍💻 [Explore my repositories](https://github.com/sandeep-kumar47?tab=repositories)
+
 ## 🚀 About Me
 
 - 📚 Building **CodeLibrary**, a programming eBook platform
@@ -21,7 +28,11 @@ I'm a Computer Applications student who enjoys learning by building practical pr
 
 > These are learning areas; I'll keep adding projects as I gain practical experience.
 
-## 📌 Featured Project
+## 📌 Featured Projects
+
+### Developer Portfolio
+A responsive portfolio website introducing my learning journey and projects.  
+**[View live site](https://sandeep-kumar47.github.io)** · **[View source](https://github.com/sandeep-kumar47/sandeep-kumar47.github.io)**
 
 ### CodeLibrary
 A project focused on making programming eBooks and learning resources easier to discover. I'm working on improving the digital catalog and learning experience.
@@ -35,7 +46,8 @@ A project focused on making programming eBooks and learning resources easier to 
 
 ## 🤝 Connect
 
-- GitHub: https://github.com/sandeep-kumar47
+- GitHub: [sandeep-kumar47](https://github.com/sandeep-kumar47)
+- Portfolio: [sandeep-kumar47.github.io](https://sandeep-kumar47.github.io)
 
 ---
 
